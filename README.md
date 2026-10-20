@@ -1,12 +1,24 @@
-<h1 align="center">Hi 👋, I'm Dheeraj</h1>
-<h3 align="center">A passionate Software Engineer from The Netherlands</h3>
+# Hi, I'm Dheeraj 👋
 
-- 🌱 I’m currently learning **Domain-Driven Design, Clean Architecture and Software Architecture.**
+Software engineer from the Netherlands. I build fast, maintainable websites with Next.js and Payload CMS, and I'm sharpening my .NET architecture skills along the way.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dheeraj-ramlal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheeraj-ramlal" height="30" width="40" /></a>
-</p>
+## What I work on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+- **[Fluxaro](https://fluxaro.nl)**: websites for a fixed price, built and run by one engineer.
+- **Client and personal sites**: Next.js + Payload CMS, deployed on my own Hetzner server with Coolify.
+- **Media Converter**: a Windows app (C#) that converts images and video to WebP/WebM for those sites.
+
+## Currently learning
+
+Domain-Driven Design, Clean Architecture and software architecture in general.
+
+## Stack
+
+- **Backend:** C#, .NET, Azure
+- **Frontend:** TypeScript, React, Next.js
+- **CMS and data:** Payload CMS, PostgreSQL
+- **Infrastructure:** Docker, Coolify, Hetzner, Git
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/dheeraj-ramlal) · [Fluxaro](https://fluxaro.nl)
