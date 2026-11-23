@@ -1,0 +1,2 @@
+# Same line endings on every machine; a CRLF checkout breaks shell scripts in the Linux image
+* text=auto eol=lf
